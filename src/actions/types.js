@@ -1,0 +1,42 @@
+//Login
+export const FETCH_CURRENT_USER = 'fetch_current_user';
+export const SIGNIN = 'signIn';
+export const SIGNOUT = 'signOut';
+export const LOGIN_ERROR = 'loginError';
+export const PATIENT_ID = 'patientId';
+
+//RRHH Empleado
+export const MOSTRAR_EMPLEADOS = 'MOSTRAR_EMPLEADOS';
+export const MOSTRAR_EMPLEADO = 'MOSTRAR_EMPLEADO';
+export const AGREGAR_EMPLEADO = 'AGREGAR_EMPLEADO';
+export const EDITAR_EMPLEADO = 'EDITAR_EMPLEADO';
+export const BORRAR_EMPLEADO = 'BORRAR_EMPLEADO';
+export const AGREGAR_DIRECCION_EMPLEADO = 'AGREGAR_DIRECCION_EMPLEADO';
+
+//RRHH Roles
+export const MOSTRAR_ROLES = 'MOSTRAR_ROLES';
+export const MOSTRAR_ROL = 'MOSTRAR_ROL';
+export const AGREGAR_ROL = 'AGREGAR_ROL';
+export const EDITAR_ROL = 'EDITAR_ROL';
+export const BORRAR_ROL = 'BORRAR_ROL';
+
+//MODULO Producto
+export const MOSTRAR_PRODUCTOS = 'MOSTRAR_PRODUCTOS';
+export const MOSTRAR_PRODUCTO = 'MOSTRAR_PRODUCTO';
+export const AGREGAR_PRODUCTO = 'AGREGAR_PRODUCTO';
+export const EDITAR_PRODUCTO = 'EDITAR_PRODUCTO';
+export const BORRAR_PRODUCTO = 'BORRAR_PRODUCTO';
+
+//MODULO Categoria
+export const MOSTRAR_CATEGORIAS = 'MOSTRAR_CATEGORIAS';
+export const MOSTRAR_CATEGORIA = 'MOSTRAR_CATEGORIA';
+export const AGREGAR_CATEGORIA = 'AGREGAR_CATEGORIA';
+export const EDITAR_CATEGORIA = 'EDITAR_CATEGORIA';
+export const BORRAR_CATEGORIA = 'BORRAR_CATEGORIA';
+
+//MODULO Turnos
+export const MOSTRAR_TURNOS = 'MOSTRAR_TURNOS';
+export const MOSTRAR_TURNO = 'MOSTRAR_TURNO';
+export const AGREGAR_TURNO = 'AGREGAR_TURNO';
+export const EDITAR_TURNO = 'EDITAR_TURNO';
+export const BORRAR_TURNO = 'BORRAR_TURNO';
